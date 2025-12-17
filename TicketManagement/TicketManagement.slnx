@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="TicketManagement.AuthService/TicketManagement.AuthService.csproj" />
   <Project Path="TicketManagement.TicketService/TicketManagement.TicketService.csproj" />
+  <Project Path="TicketManagement.Web/TicketManagement.Web.csproj" />
 </Solution>
