@@ -1,0 +1,6 @@
+@TicketManagement.AuthService_HostAddress = http://localhost:5237
+
+GET {{TicketManagement.AuthService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
